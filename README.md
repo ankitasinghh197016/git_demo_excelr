@@ -1,2 +1,2 @@
 # git_demo_excelr
-This is my first repo
+This is my first repository
